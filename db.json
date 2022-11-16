@@ -1,0 +1,84 @@
+{
+"orders":[
+{
+"orderNumber": 12345,
+"orderDate": "22-11-2022",
+"overallOrderStatus": "ordered",
+"courier": "UPS",
+"estimatedDelDate": "29-11-2022",
+"items": [
+{
+"booking": 1,
+"details": [
+{
+"country": "Spain",
+"city": "Barcelona",
+"people": 4,
+"days": 5,
+"arrivalDate": "29-11-2022",
+"url": "https://img.freepik.com/premium-photo/home-house-exterior-design-showing-tropical-pool-villa-with-greenery-garden_41487-488.jpg?size=626&ext=jpg&ga=GA1.2.204480486.1667913872&semt=sph"
+}
+]
+},
+{
+"booking": 2,
+"details": [
+{
+"country": "Italy",
+"city": "Rome",
+"people": 2,
+"days": 7,
+"arrivalDate": "29-12-2022",
+"url": "https://img.freepik.com/free-photo/modern-studio-apartment-design-with-bedroom-living-space_1262-12375.jpg?size=626&ext=jpg&ga=GA1.2.204480486.1667913872&semt=sph"
+}
+]
+}
+]
+},
+{
+"orderNumber": 54321,
+"orderDate": "29-11-2022",
+"overallOrderStatus": "shipped",
+"deliveryDate": "05-12-2022",
+"courier": "DHL",
+"estimatedDelDate": "05-12-2022",
+"items": [
+{
+"booking": 1,
+"details": [
+{
+"country": "Finland",
+"city": "Rovaniemi",
+"people": 10,
+"days": 7,
+"arrivalDate": "22-12-2022",
+"url": "https://img.freepik.com/premium-photo/christmas-wooden-mansion-mountains-snowfall-winter-day-cozy-chalet-ski-resort-near-pine-forest-cottage-square-timber-with-wooden-facade-firtrees-covered-with-snow-chimney-stone_229760-997.jpg?size=626&ext=jpg&ga=GA1.2.204480486.1667913872&semt=sph"
+}
+]
+}
+]
+},
+{
+"orderNumber": 12321,
+"orderDate": "15-11-2022",
+"overallOrderStatus": "ordered",
+"cancelledReason": "no stock",
+"estimatedDelDate": "20-11-2022",
+"items": [
+{
+"booking": 1,
+"details": [
+{
+"country": "The Neatherlands",
+"city": "Amsterdam",
+"people": 2,
+"days": 4,
+"arrivalDate": "20-04-2023",
+"url": "https://img.freepik.com/free-photo/modern-living-room-style_53876-144814.jpg?size=626&ext=jpg&ga=GA1.2.204480486.1667913872&semt=sph"
+}
+  ]
+}
+]
+}
+]
+}
