@@ -4,6 +4,7 @@
 "orderNumber": 12345,
 "orderDate": "22-11-2022",
 "overallOrderStatus": "ordered",
+"manageBooking": "possible",
 "courier": "UPS",
 "estimatedDelDate": "29-11-2022",
 "items": [
@@ -39,6 +40,7 @@
 "orderNumber": 54321,
 "orderDate": "29-11-2022",
 "overallOrderStatus": "shipped",
+"manageBooking": "Not_possible",
 "deliveryDate": "05-12-2022",
 "courier": "DHL",
 "estimatedDelDate": "05-12-2022",
@@ -62,7 +64,8 @@
 "orderNumber": 12321,
 "orderDate": "15-11-2022",
 "overallOrderStatus": "ordered",
-"cancelledReason": "no stock",
+"manageBooking": "possible",
+"courier": "DHL",
 "estimatedDelDate": "20-11-2022",
 "items": [
 {
