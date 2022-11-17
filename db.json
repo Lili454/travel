@@ -42,7 +42,7 @@
 "orderNumber": 54321,
 "orderDate": "29-11-2022",
 "overallOrderStatus": "shipped",
-"manageBooking": "possible",
+"manageBooking": "not_possible",
 "deliveryDate": "05-12-2022",
 "courier": "DHL",
 "estimatedDelDate": "05-12-2022",
